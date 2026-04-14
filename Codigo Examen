@@ -1,0 +1,10 @@
+Algoritmo Bomba_Solar
+   Definir irradiacion Como Real
+   Escribir "Ingrese la irradiación actual (W/m²):"
+   Leer irradiacion
+   Si irradiacion > 400 Entonces
+      Escribir "Bomba encendida"
+   SiNo
+      Escribir "Bomba apagada"
+   FinSi
+FinAlgoritmo
